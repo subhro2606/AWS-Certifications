@@ -1,7 +1,7 @@
 # AWS-Certifications
 All Notes and other resources related to the different AWS Certifications
 
-1. AWS Certified Solutions Architect - Associate (SAA-C02)
+# 1. AWS Certified Solutions Architect - Associate (SAA-C02)
 
 These are my personal notes from Adrian Cantrill's (SAA-C02) course, Dojo Cheat Sheets & Anthony Lozano's AWS-SAA-C02-Course git repository. 
 
