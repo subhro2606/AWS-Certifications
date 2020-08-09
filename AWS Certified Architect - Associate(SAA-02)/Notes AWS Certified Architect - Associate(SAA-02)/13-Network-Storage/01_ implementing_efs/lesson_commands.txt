@@ -1,0 +1,27 @@
+# INSTANCE A
+
+sudo ls -la /
+df -k
+sudo mkdir -p /efs/wp-content
+sudo nano /etc/fstab
+
+#file-system-id:/ /efs/wp-content efs _netdev,tls,iam 0 0 
+#/efs/wp-content mount point
+#efs is the file system
+# _netdev is configuration option that tells that this is a network file system and don't load it before the network stack is operational, this requires "amazon-efs-utils" to be intalled in the system
+#tls configures encryption in transit
+#iam means iam authorization to be used
+fs-66b2b7e5:/ /efs/wp-content efs _netdev,tls,iam 0 0 
+
+sudo mount /efs/wp-content
+df -k
+cd /efs/wp-content
+sudo touch amazingtestfile.txt
+
+# INSTANCE B
+
+sudo mkdir -p /efs/wp-content
+sudo nano /etc/fstab
+file-system-id:/ /efs/wp-content efs _netdev,tls,iam 0 0
+sudo mount /efs/wp-content
+ls -la

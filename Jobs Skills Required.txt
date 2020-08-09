@@ -1,0 +1,36 @@
+Cloud Consulatant
+· Extensive experience architecting, designing and programming applications in an AWS Cloud environment
+AWS Certified Architect Assocate 
+· Extensive experience with Kubernetes (EKS / GKE) or ECS
+https://www.udemy.com/course/docker-certified-associate/ (18 hours)
+https://www.udemy.com/course/docker-for-devops/ (12 hours)
+https://www.udemy.com/course/learn-kubernetes/ (5 hours)
+https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/ (15 hours)
+· Experience with designing and building application using AWS services such as EC2, AWS Elastic Beanstalk, AWS OpsWorks
+https://acloud.guru/learn/aws-certified-developer-associate (21 hours)
+· Experience architecting highly available systems that utilize load balancing, horizontal scalability and high availability
+AWS Certified Architect Assocate 
+· Hands on programing skills in any of the following: Python, Java, Node.js, Ruby, .NET or Scala
+https://www.udemy.com/course/pythontutorial/ (16 hours)
+https://www.udemy.com/course/the-complete-web-development-bootcamp/ (51hours)
+https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/
+https://www.udemy.com/course/complete-python-bootcamp/
+https://www.udemy.com/course/the-creative-html5-css3-course-build-awesome-websites/ (13 hours)
+https://www.udemy.com/course/spring-tutorial-for-beginners/
+https://www.udemy.com/course/oracle-java-11-programmer-exam-1z0815/
+https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/
+· Agile software development expert
+https://www.udemy.com/course/aws-cloudformation-master-class/ (7 hours)
+· Experience with continuous integration tools (e.g. Jenkins)
+https://www.udemy.com/course/jenkins-from-zero-to-hero/ (10 hours)
+· Hands on familiarity with CloudFormation 
+https://www.udemy.com/course/aws-cloudformation-simplified-hands-on-learning/
+https://www.udemy.com/course/aws-cloudformation-master-class/ (4 hours)
+https://www.udemy.com/course/rocking-aws-cloudformation-cdk-with-devops-interview-guide/?referralCode=481370693EF0DCA6712A
+· Experience with configuration management platforms (e.g. Chef, Puppet, Salt, or Ansible)
+https://www.udemy.com/course/aws-lambda-serverless-architecture/
+· Strong scripting skills (e.g. Powershell, Python, Bash, Ruby, Perl, etc.)
+· Strong practical application development experience on Linux and Windows-based systems
+https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/
+· Extra curricula software development passion (e.g. active open source contributor)
+Amazon is an Equal Opportunity-Affirmative Action Employer-Minority/Female/Disability/Vet

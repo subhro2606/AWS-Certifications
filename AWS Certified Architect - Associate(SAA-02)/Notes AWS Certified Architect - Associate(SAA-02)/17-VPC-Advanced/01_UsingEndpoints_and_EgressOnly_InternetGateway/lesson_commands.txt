@@ -1,0 +1,29 @@
+
+# PART 1 - Gateway Endpoint Configure
+
+ping 1.1.1.1
+aws s3 ls
+aws s3 cp s3://bucketname/supersecret.txt supersecret.txt
+
+# Part 2 - Interface End Point Configure
+
+aws sns publish \
+    --message "Cats are the best" \
+    --phone-number +27797106169 \
+    --region us-east-1
+
+aws sns publish \
+    --message "Cats are the best" \
+    --phone-number +27797106169 \
+    --region us-east-1 \
+    --endpoint-url https://vpce-0d4ec956eaaf10594-3qxjkfbe.sns.us-east-1.vpce.amazonaws.com
+
+# When Service Default Endpoint defaults to the private endpoint-url of the Interface Endpoint, this would work
+aws sns publish \
+    --message "Cats are the best" \
+    --phone-number +27797106169 \
+    --region us-east-1
+
+# Part 3
+
+ping -6 ipv6.google.com
